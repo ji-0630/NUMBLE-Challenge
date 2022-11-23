@@ -16,7 +16,13 @@
 * 변수 전처리
   * 1차 필터링) Binning된 변수 구간별 부도율 시각화하여 그래프가 상승 또는 하강 추세일 때 모델링 변수로 선택
   ![image](https://user-images.githubusercontent.com/65642065/203484868-5e359309-70b4-4106-ae1c-711c4a042581.png)
+  
+  
+  
   * 2차 필터링) 단변량 분석으로 유의미한 변수 선정
-  ![image](https://user-images.githubusercontent.com/65642065/203485136-978eae82-46c0-408a-890d-74e452eb0f1a.png)
+
+
+
+    ![image](https://user-images.githubusercontent.com/65642065/203485136-978eae82-46c0-408a-890d-74e452eb0f1a.png)
 * 모델링
   *
