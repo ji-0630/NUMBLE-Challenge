@@ -24,5 +24,15 @@
 
 
     ![image](https://user-images.githubusercontent.com/65642065/203485136-978eae82-46c0-408a-890d-74e452eb0f1a.png)
+    
 * 모델링
-  *
+ * 앙상블을 통해 모델 구축
+   
+   
+   ![image](https://user-images.githubusercontent.com/65642065/203697705-dfecff07-8026-475b-b72a-653c56b1d325.png)
+ * 비재무데이터 결합한 모델
+   
+   
+   ![image](https://user-images.githubusercontent.com/65642065/203697796-d18517c4-2331-4a3f-907b-b7c2b00933a4.png)
+
+
